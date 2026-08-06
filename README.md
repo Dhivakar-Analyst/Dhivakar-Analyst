@@ -36,7 +36,6 @@ Passionate about turning raw data into meaningful business insights through anal
 ### 📈 Currently Learning
 
 - SQL
-- Power BI
 - Python
 - Statistics
 - AI for Data Analytics
